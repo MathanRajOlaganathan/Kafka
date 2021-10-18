@@ -10,6 +10,8 @@ Kafka
 ### **Messaging System**
 >A messaging system is a simple exchange of messages between two or more persons, devices, etc. A publish-subscribe messaging system allows a sender to send/write the message and a receiver to read that message. In Apache Kafka, a sender is known as a producer who publishes messages, and a receiver is known as a consumer who consumes that message by subscribing it.
 
+![Difference between Point-To-Point and Publish/Subscribe JMS Messaging Models](http://verticalhorizons.in/difference-between-point-to-point-and-publishsubscribe-jms-messaging-models/)
+
 #### **Stream Processing**
 >Stream processing is the processing of data in motion, or in other words, computing on data directly as it is produced or received.
 
